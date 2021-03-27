@@ -2,4 +2,4 @@
 coworking_backend
 
 # cara framework ini berjalan
-<img href="flare.png">
+<img src="flare.png">
